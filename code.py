@@ -18,3 +18,4 @@ y=90
 c = x
 x = y
 y = c
+print("This is just a random number "+c)
